@@ -6,6 +6,7 @@ public class Alumno  extends Persona {
     private double notaCastellano;
     private double notaHistoria;
 
+
     public String getInstitucion() {
         return institucion;
     }
